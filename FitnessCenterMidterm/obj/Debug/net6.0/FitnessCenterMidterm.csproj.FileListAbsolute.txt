@@ -1,0 +1,15 @@
+C:\Users\Me\Desktop\Class Repo\FitnessCenterMidterm\FitnessCenterMidterm\bin\Debug\net6.0\FitnessCenterMidterm.exe
+C:\Users\Me\Desktop\Class Repo\FitnessCenterMidterm\FitnessCenterMidterm\bin\Debug\net6.0\FitnessCenterMidterm.deps.json
+C:\Users\Me\Desktop\Class Repo\FitnessCenterMidterm\FitnessCenterMidterm\bin\Debug\net6.0\FitnessCenterMidterm.runtimeconfig.json
+C:\Users\Me\Desktop\Class Repo\FitnessCenterMidterm\FitnessCenterMidterm\bin\Debug\net6.0\FitnessCenterMidterm.dll
+C:\Users\Me\Desktop\Class Repo\FitnessCenterMidterm\FitnessCenterMidterm\bin\Debug\net6.0\FitnessCenterMidterm.pdb
+C:\Users\Me\Desktop\Class Repo\FitnessCenterMidterm\FitnessCenterMidterm\obj\Debug\net6.0\FitnessCenterMidterm.csproj.AssemblyReference.cache
+C:\Users\Me\Desktop\Class Repo\FitnessCenterMidterm\FitnessCenterMidterm\obj\Debug\net6.0\FitnessCenterMidterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Me\Desktop\Class Repo\FitnessCenterMidterm\FitnessCenterMidterm\obj\Debug\net6.0\FitnessCenterMidterm.AssemblyInfoInputs.cache
+C:\Users\Me\Desktop\Class Repo\FitnessCenterMidterm\FitnessCenterMidterm\obj\Debug\net6.0\FitnessCenterMidterm.AssemblyInfo.cs
+C:\Users\Me\Desktop\Class Repo\FitnessCenterMidterm\FitnessCenterMidterm\obj\Debug\net6.0\FitnessCenterMidterm.csproj.CoreCompileInputs.cache
+C:\Users\Me\Desktop\Class Repo\FitnessCenterMidterm\FitnessCenterMidterm\obj\Debug\net6.0\FitnessCenterMidterm.dll
+C:\Users\Me\Desktop\Class Repo\FitnessCenterMidterm\FitnessCenterMidterm\obj\Debug\net6.0\refint\FitnessCenterMidterm.dll
+C:\Users\Me\Desktop\Class Repo\FitnessCenterMidterm\FitnessCenterMidterm\obj\Debug\net6.0\FitnessCenterMidterm.pdb
+C:\Users\Me\Desktop\Class Repo\FitnessCenterMidterm\FitnessCenterMidterm\obj\Debug\net6.0\FitnessCenterMidterm.genruntimeconfig.cache
+C:\Users\Me\Desktop\Class Repo\FitnessCenterMidterm\FitnessCenterMidterm\obj\Debug\net6.0\ref\FitnessCenterMidterm.dll
